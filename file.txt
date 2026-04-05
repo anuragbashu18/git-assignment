@@ -1,2 +1,3 @@
 this is my first text
 Feature branch change
+Second change in feature branch
